@@ -71,10 +71,8 @@ oasis-alzheimers-detection-multi-class-c/
 
 Built using Keras Functional API with two parallel branches that merge before classification.
 
-### Model Architecture Diagram
-*(If you have a diagram, upload it to your repo as `model_plot.png` and remove the comment below)*  
-![Model Architecture](model_plot.png)  
-*Vision branch (CNN) + Tabular branch (MLP) fused via concatenation.*
+
+ 
 
 ## 🔬 Technical Methodology
 
@@ -119,7 +117,7 @@ Loss function: **Categorical Cross-Entropy**
 > Note: Severe class imbalance affects performance on the ModerateDemented class.
 
 ### Visualizations
-*(Optional: Upload confusion_matrix.png and gradcam_examples.png to your repo)*  
+  
 ![Confusion Matrix](confusion_matrix.png)  
 
 
@@ -174,18 +172,14 @@ Download the trained weights: [model.h5](https://github.com/yourusername/your-re
 - **Model & Implementation**: Aniket Ghosh  
   Developed as part of MTeach graduate research
 
-- **LinkedIn**: [Aniket Ghosh](https://www.linkedin.com/in/aniket-ghosh/) *(Update with your actual LinkedIn URL)*
+- **LinkedIn**: [Aniket Ghosh](https://www.linkedin.com/in/aniket-ghosh/) 
 
 
 
 ⭐ If you find this project helpful, please consider starring the repository!
 ```
 
-### How to use this:
-1. Copy everything above (from `# Multi-Modal Hybrid...` to the end).
-2. In your GitHub repository, create or edit the file named **README.md**.
-3. Paste the content and save.
-4. GitHub will automatically render it beautifully.
+
 
 ### Quick customizations (do these now):
 - Replace the Kaggle link with your real notebook URL.
